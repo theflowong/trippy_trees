@@ -1,4 +1,4 @@
 # trippy_trees
-Animated visualization of fall leaves created with object-oriented programming in Processing
+Animated visualization of fall leaves using object-oriented programming in Processing
 
-Run/play using "trippy_trees.pde"
+To run: download files, open "trippy_trees.pde" using Processing and press play.
