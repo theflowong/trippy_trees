@@ -3,4 +3,5 @@ Animated visualization of fall leaves using object-oriented programming in Proce
 
 To run: download files, open "trippy_trees.pde" using Processing and press play.
 
-![Treeees!!!](/screenshots/trippy_trees1.png?raw=true "Treees!")
+![Treeees!!!](/screenshots/trippy_trees1.png?raw=true "Treees! #1")
+![Treeees!!!](/screenshots/trippy_trees2.png?raw=true "Treees! #2")
