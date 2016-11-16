@@ -6,4 +6,4 @@ To run: download files, open "trippy_trees.pde" using Processing and press play.
 ![Treeees!!!](/screenshots/trippy_trees1.png?raw=true "Treees! #1"| width="100px")
 ![Treeees!!!](/screenshots/trippy_trees2.png?raw=true "Treees! #2"| width="100")
 
-<img src="/screenshots/trippy_trees1.png?raw=true" data-canonical-src="/screenshots/trippy_trees1.png?raw=true" width="200" height="400" />
+<img src="/screenshots/trippy_trees1.png?raw=true" data-canonical-src="/screenshots/trippy_trees1.png?raw=true" width="45%" />
