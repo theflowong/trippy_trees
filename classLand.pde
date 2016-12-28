@@ -1,3 +1,5 @@
+// by Flo Wong
+
 class Land {
   
   // ---------- DATA ---------- \\
