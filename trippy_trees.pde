@@ -3,7 +3,6 @@
 // by Flo Wong
 // October 2016
 
-
 // --------------- INITIALIZE VARIABLES --------------- \\
 
 Sky sky;
@@ -73,4 +72,32 @@ void draw() {
     tree.display();
   }
   
+  // draw gif (http://stackoverflow.com/questions/22124039/exporting-a-gif-from-a-processing-sketch-w-gif-animation-library)
+  if(frameCount <= 120) {
+    TImage frame = new TImage(width,height,RGB,sketchPath("frame_"+nf(frameCount,3)+".png"));
+    frame.set(0,0,get());
+    frame.saveThreaded();
+  }
+  
 }
+
+/*
+// --------------- class TImage for gif --------------- \\
+class TImage extends PImage implements Runnable{//separate thread for saving images
+  String filename;
+
+  TImage(int w,int h,int format,String filename){
+    this.filename = filename;
+    init(w,h,format);
+  }
+
+  public void saveThreaded(){
+    new Thread(this).start();
+  }
+
+  public void run(){
+    this.save('frames/'+filename);
+  }
+
+}
+*/
