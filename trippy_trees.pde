@@ -71,7 +71,14 @@ void draw() {
     
     tree.display();
   }
+}
   
+  
+  
+  
+  
+  // --------------- OTHER: for gifs --------------- \\
+  /*
   // draw gif (http://stackoverflow.com/questions/22124039/exporting-a-gif-from-a-processing-sketch-w-gif-animation-library)
   if(frameCount <= 120) {
     TImage frame = new TImage(width,height,RGB,sketchPath("frame_"+nf(frameCount,3)+".png"));
@@ -79,25 +86,23 @@ void draw() {
     frame.saveThreaded();
   }
   
-}
 
-/*
-// --------------- class TImage for gif --------------- \\
-class TImage extends PImage implements Runnable{//separate thread for saving images
-  String filename;
-
-  TImage(int w,int h,int format,String filename){
-    this.filename = filename;
-    init(w,h,format);
+  // --------------- class TImage for gif --------------- \\
+  class TImage extends PImage implements Runnable{//separate thread for saving images
+    String filename;
+  
+    TImage(int w,int h,int format,String filename){
+      this.filename = filename;
+      init(w,h,format);
+    }
+  
+    public void saveThreaded(){
+      new Thread(this).start();
+    }
+  
+    public void run(){
+      this.save('frames/'+filename);
+    }
+  
   }
-
-  public void saveThreaded(){
-    new Thread(this).start();
-  }
-
-  public void run(){
-    this.save('frames/'+filename);
-  }
-
-}
-*/
+  */
