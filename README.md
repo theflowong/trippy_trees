@@ -1,6 +1,7 @@
 # trippy_trees
 Animated visualization of fall leaves using object-oriented programming in Processing
 
+---
 
 On a recent trip to my alma mater, I was inspired by the amount of life in the Arboretum, and decided to create an animated visualization of a breathing autumn landscape.
 
