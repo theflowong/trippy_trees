@@ -15,7 +15,7 @@ To run:
 1. Download trippy_trees.
   * Make sure all the files are contained in trippy_trees folder.
 
-2. Open "trippy_trees.pde" using Processing
+2. Open "trippy_trees.pde" with Processing
 
 3. Press play.
 
