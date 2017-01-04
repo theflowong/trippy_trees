@@ -11,9 +11,13 @@ Also viewable on http://flowong.com/animated.php
 
 ----
 To run:
+
 1. Download files
+
 2. Open "trippy_trees.pde" using Processing
+
 3. Press play.
+
 
 <img src="/screenshots/trippy_trees1.png?raw=true" data-canonical-src="/screenshots/trippy_trees1.png?raw=true" width="49%" />
 <img src="/screenshots/trippy_trees2.png?raw=true" data-canonical-src="/screenshots/trippy_trees2.png?raw=true" width="49%" />
