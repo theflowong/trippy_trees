@@ -17,7 +17,9 @@ Also viewable on http://flowong.com/animated.php
 1. Clone or download repo.
   * Make sure the folder trippy_trees contains all files.
 
-2. Open trippy_trees.pde with Processing.
+2. Go into trippy_trees folder.
+
+3. Open trippy_trees.pde with Processing.
 
 3. Press play.
 
