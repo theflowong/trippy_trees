@@ -14,10 +14,10 @@ Also viewable on http://flowong.com/animated.php
 ----
 ## To Run:
 
-1. Download trippy_trees.
-  * Make sure all the files are contained in trippy_trees folder.
+1. Clone or download repo.
+  * Make sure the folder trippy_trees contains all files.
 
-2. Open "trippy_trees.pde" with Processing
+2. Open trippy_trees.pde with Processing.
 
 3. Press play.
 
