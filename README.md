@@ -12,16 +12,17 @@ I used object-oriented programming to create animated mathematical functions res
 Also viewable on http://flowong.com/animated.php
 
 ----
-## To Run:
+## To Install & View Locally:
 
-1. Clone or download repo.
-  * Make sure the folder trippy_trees contains all files.
+1. This project uses <a href="https://processing.org/">Processing 3</a>, which is a programming language for creating visual art and prototypes and all that jazz. Before you begin, <a href="https://processing.org/download/">download Processing 3</a> on your computer.
 
-2. Go into trippy_trees folder.
+2. Download this repo on your local computer.
 
-3. Open trippy_trees.pde with Processing.
+   (If you rename any folders or files, make sure the main folder matches the name of the main .pde file. For mine, they're named trippy_trees and trippy_trees.pde respectively.)
 
-3. Press play.
+3. Open trippy_trees/trippy_trees.pde (with Processing 3).
+
+3. Press play. That's it!
 
 ----
 ## Screenshots!
