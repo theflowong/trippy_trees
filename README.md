@@ -12,7 +12,7 @@ I used object-oriented programming to create animated mathematical functions res
 ----
 ## To Install & View Locally:
 
-1. This project uses <a href="https://processing.org/">Processing 3</a>, which is a programming language for creating visual art and prototypes and all that jazz. Before you begin, <a href="https://processing.org/download/">download Processing 3</a> on your computer.
+1. This project uses <a href="https://processing.org/">Processing 3</a>, which is a programming language for creating visual art and prototypes and all that jazz. It's built on Java. Before you begin, <a href="https://processing.org/download/">download Processing 3</a> on your computer.
 
 2. Download this repo on your local computer.
 
