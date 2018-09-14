@@ -9,8 +9,6 @@ On a recent trip to my alma mater, I was inspired by the amount of life in the A
 
 I used object-oriented programming to create animated mathematical functions resulting in a rhythm of colors and pulses for the trees, moon, and land.
 
-Also viewable on http://flowong.com/animated.php
-
 ----
 ## To Install & View Locally:
 
